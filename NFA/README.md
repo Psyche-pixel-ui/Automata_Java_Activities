@@ -3,7 +3,6 @@
 ## Objective
 Create a Java program that simulates a **Nondeterministic Finite Automaton (NFA)** that **accepts strings containing the substring `ab`**.
 
----
 
 ## NFA Details
 | Component | Description |
@@ -13,7 +12,6 @@ Create a Java program that simulates a **Nondeterministic Finite Automaton (NFA)
 | **Accepting Condition** | The substring `ab` appears anywhere in the input string |
 | **Transitions** | Multiple next states possible per symbol |
 
----
 
 ## How the NFA Works
 - The NFA starts in **q0**.
@@ -21,17 +19,16 @@ Create a Java program that simulates a **Nondeterministic Finite Automaton (NFA)
 - If **any path reaches the accepting state (`q2`)** after processing the whole string, the string is **Accepted**.
 - Otherwise, the string is **Rejected**.
 
----
 
 ## Sample Output Screenshot
 
 Below is a sample run of the NFA program:
 
-(Screenshot folder to be added)
+(https://github.com/Psyche-pixel-ui/Automata_Java_Activities/blob/main/NFA/NFA.png)
 
----
 
-## 💻 Java Code Used
+
+## Java Code Used
 
 ```java
 // NFASimulator.java
