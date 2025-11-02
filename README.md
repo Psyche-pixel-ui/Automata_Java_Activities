@@ -12,8 +12,8 @@ Each simulator is contained in its own folder with a dedicated `README.md` file 
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| `DFA/` | Contains the DFA String Acceptance Checker project | ((https://github.com/Psyche-pixel-ui/Automata_Java_Activities/tree/main/DFA)) |
-| `NFA/` | Contains the NFA String Acceptance Simulator project | ((https://github.com/Psyche-pixel-ui/Automata_Java_Activities/tree/main/NFA)) |
+| `DFA/` | Contains the DFA String Acceptance Checker project | (https://github.com/Psyche-pixel-ui/Automata_Java_Activities/tree/main/DFA) |
+| `NFA/` | Contains the NFA String Acceptance Simulator project | (https://github.com/Psyche-pixel-ui/Automata_Java_Activities/tree/main/NFA) |
 
 > Replace the link placeholders after uploading your project to GitHub.
 
