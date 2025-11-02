@@ -15,7 +15,7 @@ Create a Java program that simulates a Deterministic Finite Automaton (DFA) that
 
 ---
 
-## 🧠 How the DFA Works
+## How the DFA Works
 - The program reads a binary string input from the user.
 - It simulates state transitions based on each character (`0` or `1`).
 - If the final state is **q2**, the string is **Accepted**.
