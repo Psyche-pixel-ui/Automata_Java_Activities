@@ -24,7 +24,9 @@ Create a Java program that simulates a **Nondeterministic Finite Automaton (NFA)
 
 Below is a sample run of the NFA program:
 
-(https://github.com/Psyche-pixel-ui/Automata_Java_Activities/blob/main/NFA/NFA.png)
+https://github.com/Psyche-pixel-ui/Automata_Java_Activities/blob/main/NFA/NFA.png
+
+https://github.com/Psyche-pixel-ui/Automata_Java_Activities/blob/main/NFA/NFA2.png
 
 
 
